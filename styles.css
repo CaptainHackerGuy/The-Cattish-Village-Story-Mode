@@ -1,0 +1,33 @@
+body{
+    font-family:cursive;
+    padding: 20px;
+    margin: 30px;
+    background:rgba(145, 219, 240, 0.659);
+    width: fit-content;
+}
+h1{
+    color: #910505;
+    font-size: 40px;
+}
+#title{
+    color: #910505;
+}
+.credits{
+    background-image: url("cat.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+.Instruction{
+    background: whitesmoke;
+    padding: 20px;
+}
+.plot{
+    background: whitesmoke;
+    padding: 20px;
+}
+.disclaimer{
+    background: whitesmoke;
+    padding: 20px;
+}
